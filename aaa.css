@@ -20,11 +20,12 @@
     width: 300px;
     height: 40px;
     border-radius: 5px;
+    margin-top: 24px;
 }
 
 .nav{
     display:flex;
-    justify-content: flex-start;
+    justify-content: flex-end;
     line-height: 86;
     width:calc(1280px - 300px);
 }
