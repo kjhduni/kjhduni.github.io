@@ -24,4 +24,6 @@
 
 .nav{
     display:flex;
+    justify-content: flex-start;
+    line-height: 86;
 }
