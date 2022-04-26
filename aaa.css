@@ -25,11 +25,9 @@
 
 .nav{
     display:flex;
+    align-items: center;
     justify-content: flex-end;
     line-height: 86;
     width:calc(1280px - 300px);
-}
-
-.nav >li{
-    margin-left: 85;
+    border-bottom: 1px;
 }
