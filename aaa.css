@@ -28,7 +28,6 @@
     align-items: center;
     justify-content: flex-end;
     line-height: 86;
-    width:calc(1280px - 300px);
     border-bottom: 1px;
 }
 
