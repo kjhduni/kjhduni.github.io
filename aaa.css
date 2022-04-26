@@ -36,3 +36,9 @@
     display: flex;
     margin-left: auto;
 }
+
+.title{
+    text-align: center;
+    font-size: 400;
+    font-weight: 300;
+}
