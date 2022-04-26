@@ -26,4 +26,5 @@
     display:flex;
     justify-content: flex-start;
     line-height: 86;
+    width:calc(1920px - 300px);
 }
