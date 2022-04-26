@@ -29,3 +29,7 @@
     line-height: 86;
     width:calc(1280px - 300px);
 }
+
+.nav >li{
+    margin-left: 85;
+}
