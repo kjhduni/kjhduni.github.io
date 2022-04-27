@@ -30,7 +30,7 @@ body{
  
  .site-name{
     margin:0;
-    font-family: 'Wendy One', sans-serif;
+    font-family: 'Shrikhand', cursive;
     font-size: 24px;
     color: #C2B4AB;
  }
@@ -116,7 +116,7 @@ body{
  /*recent works*/
  
  .recent-menu{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Shrikhand', cursive;
     font-size: 15px;
     font-weight: 700;
     color: #C2B4AB;
