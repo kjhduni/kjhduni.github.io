@@ -161,3 +161,88 @@ a:hover{
    margin: 0;
    margin-top: 5px;
 }
+
+/* RECENT WORKS */
+
+.recent-works{
+    display: flex;
+    flex-direction: column;
+ }
+ 
+ .article{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 120px;
+    align-items: center;
+ }
+ 
+ .thumbnail{
+    width: 600px;
+ }
+ 
+ .article-info{
+    margin: 0px 20px;
+ }
+ 
+ .article-name{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+ }
+ 
+ .article-name:hover{
+    color: pink;
+    -webkit-text-stroke: 1px black;
+    transition: 0.3s;
+ }
+ 
+ 
+ 
+ .article-comment{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+ }
+ 
+ .more{
+    width: content;
+    height: content;
+    float: right;
+    margin-right: 10px;
+ 
+ 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding: 0px;
+ }
+ 
+ 
+ #name1{
+    position: relative;
+    right: 70px;
+ }
+ 
+ #name1:hover{
+    color: skyblue;
+ }
+ 
+ #name2-1{
+    text-align: right;
+    position: relative;
+    left: 0px;
+    margin-bottom: 0px;
+ }
+ 
+ #name2-2{
+    text-align: right;
+    position: relative;
+    left: 100px;
+ }
+ 
+ #name2-2:hover{
+    color: orange;
+ }
