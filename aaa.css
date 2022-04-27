@@ -68,40 +68,6 @@ a:hover{
    font-size: 50px;
 }
 
-.sample{
-   background-color: pink;
-   -webkit-text-stroke: 1px black;
-}
-
-.sample:hover{
-   background-color: transparent;
-   color: white;
-   -webkit-text-stroke: 1px black;
-   transition: none;
-}
-
-.highlight{
-   color: white;
-   -webkit-text-stroke: 1px black;
-}
-
-.highlight:hover{
-   background-color: pink;
-   color: black;
-   transition: none;
-}
-
-.type1:hover{
-   background-color: yellowgreen;
-}
-
-.type2:hover{
-   background-color: skyblue;
-}
-
-.type3:hover{
-   background-color: orange;
-}
 
 .english-comment{
    font-family: 'Noto Sans KR', sans-serif;
@@ -235,14 +201,4 @@ a:hover{
     position: relative;
     left: 0px;
     margin-bottom: 0px;
- }
- 
- #name2-2{
-    text-align: right;
-    position: relative;
-    left: 100px;
- }
- 
- #name2-2:hover{
-    color: orange;
  }
