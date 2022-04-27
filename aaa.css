@@ -1,5 +1,5 @@
 body{
-   background-color: #EFE7E3;
+   background-color: #bdd7df;
 }
 
 .frame{
@@ -41,16 +41,6 @@ ul{
    font-size: 16px;
 }
 
-a{
-   color: black;
-   text-decoration: none;
-}
-
-a:hover{
-   color: white;
-   transition: 0.3s;
-}
-
 
 /*dashboard*/
 
@@ -62,12 +52,11 @@ a:hover{
    margin-bottom: 70px;
 }
 
-.korean-comment{
-   font-family: 'Noto Sans KR', sans-serif;
+.title-comment{
+   font-family: 'Bangers', cursive;
    font-weight: 500;
    font-size: 50px;
 }
-
 
 .english-comment{
    font-family: 'Noto Sans KR', sans-serif;
